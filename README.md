@@ -1,23 +1,14 @@
 ## Hello World 🌎
 
 ### Who am I 👋
-I am developer who loves to code, my main language is Java, but love Python, Javascript, Go and Dart.
-- 💻 I’m currently working in a company, with a lot of projects in Java + SpringBoot.
-- 🌱 I’m currently learning about Kafka, AWS, distributed design patterns, and Fundamentals of Software Architecture
-- 🤝 I’m looking to collaborate on open source projects. 
-- ⌨️ I’m 70% backend 👾, 30% DevOps
-- 🎮 I love video games, specially retro games like pokemon, mario and castlevania.
-- ⏱️ Sometimes I speedrun Super Mario World and Pokemon Crystal.
-- 🎵 Love music but don’t know how to play well.
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I am developer who loves to code, my main language has been Java, but I love getting involved in software architecture problems, and understanding/structuring the infrastructure to support the solutions, and I consider myself a DevOps practioner.
+- 💻 I’m currently working in a multi-culture environment as a consultant. Developing financial streaming platforms using mainly technologies like Kafka and Java.
+- 🌱 I’m currently learning about Kafka, AWS, distributed design patterns, and Fundamentals of Software Architecture.
+- ⏱️ I like to spend my time learning new things like: Photo/video editing 📹, Padel(a variation of tennis), Snowboarding 🏂
+- 🎵 Love eletronic music, and I try to go often to festivals, a big dream of mine is to go to Tomorrowland. 
+- 💬 Subjects that interest me a lot, and I am very excited to talk: Finance/investment, blockchain, travel, beer 🍻, sports, different cultures
+- 📖 I usually read technical and personal development books
+- ⚡ Fun fact: My craziest trip was in Chile, where I did a 4-day hike in Torres del Paine, without much physical preparation (I don't recommend it), but I collected good stories to tell
 
 ### Social media
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/igojeferson/)
